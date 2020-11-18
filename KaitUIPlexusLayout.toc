@@ -1,10 +1,6 @@
-#@retail@
 ## Interface: 90002
-#@end-retail@
-#@non-retail@
 ## Interface: 11305
-#@end-non-retail@
-## Version: @project-version@
+## Version: 1.0.0
 ## Title: KaitUIPlexusLayout
 ## Author: Doadin
 ## Dependencies: Plexus
