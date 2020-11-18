@@ -1,5 +1,4 @@
 ## Interface: 90002
-## Interface: 11305
 ## Version: 1.0.0
 ## Title: KaitUIPlexusLayout
 ## Author: Doadin
